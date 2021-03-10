@@ -1,0 +1,81 @@
+h1 {
+  text-align: center;
+  font-size: 5em;
+  color: #00ac4e;
+}
+
+p {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.personal-img {
+  width: 20em;
+  border-radius: 10em;
+  margin: 0 auto;
+  display: block;
+}
+
+.projects-img {
+  width: 22.5em;
+  height: 15em;
+}
+
+#menu li {
+  display: inline;
+}
+
+#menu a {
+  text-decoration: none;
+  font-size: 2em;
+  color: white;
+  margin: 1em;
+}
+
+#menu a:hover {
+  color: #3677a8;
+}
+
+#my-links a {
+  text-decoration: none;
+  font-size: 2em;
+  color: black;
+  margin: 1em;
+}
+
+#my-links a:hover {
+  color: #3677a8;
+}
+
+#my-links ul {
+  border-style: solid;
+}
+
+header {
+  border-radius: 15px;
+  background-color: #2e2e2e;
+  text-align: left;
+}
+
+footer {
+  text-align: center;
+  background-color: #2e2e2e;
+  color: white;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: auto;
+  width: 100%;
+  overflow: hidden;
+}
+
+body {
+  margin: 0 0 100px;
+  padding: 25px;
+  font-family: "Open Sans", sans-serif;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
